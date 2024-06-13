@@ -4,6 +4,9 @@ Loan approval processes constitute a critical aspect of financial institutions, 
 ## Abstract
 The project proposes an integrated machine learning model that leverages both supervised and unsupervised learning techniques to refine loan approval predictions. By incorporating decision trees, ensemble methods, deep learning, and clustering algorithms, the model aims to optimize lending decisions and manage risk effectively. Through meticulous feature importance analysis, the model achieves a remarkable accuracy rate of 95 percent, surpassing existing benchmarks. The research also uncovers valuable insights into the influence of specific borrower features on loan approval outcomes, reshaping lending decision paradigms by embracing a more inclusive and sophisticated approach.
 
+## Dataset Link
+https://www.kaggle.com/datasets/sachinsarkar/deloitte-hackathon
+
 ## Key Features
 ### Comprehensive Borrower Feature Integration:
 Incorporates a wide range of borrower features, including unconventional ones like job type and installment plans.
